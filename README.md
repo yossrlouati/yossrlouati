@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yossrlouati
-- 👀 I’m a software engineering student
+- 👀 I’m a computer engineering student
 - 🌱 I’m currently learning ML and back-end development
 
 - 📫 How to reach me : louatiyossr1@gmail.com

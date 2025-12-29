@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yossrlouati
-- 👀 I’m a junior computer engineer graduated for the National Engineering School of Carthage
+- 👀 I’m a junior computer engineer graduated from the National Engineering School of Carthage
 - 🌱 I’m passionate about IT, learning back-end development, but always enthousiastic to check devops and machine learning 
 
 - 📫 How to reach me : louatiyossr1@gmail.com
